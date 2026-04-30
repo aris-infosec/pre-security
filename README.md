@@ -19,4 +19,4 @@ Foundational knowledge every security professional needs before going deeper int
 
 ---
 
-*[← Back to Learning Path](https://github.com/aris-infosec/aris-infosec)*
+*[← Back to Learning Path](https://github.com/aris-infosec/)*
